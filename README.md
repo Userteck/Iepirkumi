@@ -1,0 +1,2 @@
+# Iepirkumi
+Patstāvīgais darbs "Iepirkumi"
